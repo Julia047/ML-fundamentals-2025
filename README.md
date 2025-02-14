@@ -9,7 +9,7 @@
 
    - **Clone this repository**:  
      ```bash
-     git clone https://github.com/yourusername/ML-fundamentals-2025.git
+     git@github.com:Julia047/ML-fundamentals-2025.git
      ```
    - **Navigate to the project directory**:  
      ```bash
